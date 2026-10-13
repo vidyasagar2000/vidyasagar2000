@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidya Sagar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer at National Instruments in Bangalore.</h3>
 <img align="center" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidyasagar2000&label=Profile%20views&color=0e75b6&style=flat" alt="vidyasagar2000" /> </p>
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Forward Deployed Engineering**
 
-- 💬 Ask me about **HTML, CSS, JavaScript and React**
+- 💬 Ask me about **System Design and FDE Topics**
 
 - 📫 How to reach me **vidya9955297836@gmail.com**
 
